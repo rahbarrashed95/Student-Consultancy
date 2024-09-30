@@ -1,0 +1,66 @@
+<?php
+  
+return [
+  
+    
+     //Attendance ...............................................................................
+    'Dashboard'                     => 'ড্যাশবোর্ড',
+    'Attendance'                    => 'হাজিরা',
+    'Attendance List'               => 'হাজিরা তালিকা',
+    'Manage Attendance'             => 'হাজিরা পরিচালনা',
+    'Attendance Add'                => 'হাজিরা এড',
+    'Sl'                            => 'সিরিয়াল',
+    'Name'                          => 'নাম',
+    'Email'                         => 'ইমেইল',
+    'Phone'                         => 'মোবাইল',
+    'Image'                         => 'ছবি',
+    'Info'                          => 'তথ্য',
+    'Address'                       => 'ঠিকানা',
+    'opening Balance'               => ' আগের বাকি',
+    'Action'                        => 'অ্যাকশন',
+    'Edit'                          => 'এডিট',
+    'Delete'                        => 'ডিলিট',
+    'SMS'                           => 'এসএমএস',
+    'Attendance Update'             => 'হাজিরা আপডেট',
+    'Update'                        => 'আপডেট',
+    'Save'                          => 'সেভ',
+    'close'                         => 'বন্ধ',
+    'Due Attendance List'           => 'বাকি হাজিরা তালিকা',
+    'Manage Due Attendance'         => 'বাকি হাজিরা পরিচালনা',
+    'Total Sell Amount'             => 'মোট বিক্রয় টাকা',
+    'Total Paid'                    => 'মোট জমা',
+    'Total Due'                     => 'মোট বাকি',
+    'Total'                         => 'মোট',
+    'Add Payment'                   => 'এড পেমেন্ট',
+    'Send SMS'                      => 'এসএমএস সেন্ড',
+    'Order No'                      => 'অর্ডার নম্বার',
+    'Date'                          => 'তারিখ',
+    'Amount'                        => 'টাকা',
+    'Due'                           => 'বাকি',
+    'Select'                        => 'সিলেক্ট',
+    'Total Amount'                  => 'মোট টাকা',
+    'Method'                        => 'মেথড',
+    'Account'                       => 'অ্যাকাউন্ট',
+    'Transaction No'                => 'ট্রানজেকশন নম্বর',
+    'Note'                          => 'মতামত',
+    'Pay Openning'                  => 'ওপেনিং পে',
+    'Attendance'                    => 'হাজিরা',
+    'Attendance List'               => 'হাজিরা তালিকা',
+    'Attendance Add'                => 'হাজিরা এড',
+    'Manage Attendance'             => 'হাজিরা পরিচালনা',
+    'Created By'                    => 'হাজিরা নিয়েছে',
+    'Total Attendance'              => 'মোট হাজিরা',
+    'Attendance Create'             => 'নতুন হাজিরা',
+    'Attendance Type'               => 'হাজিরা টাইপ',
+    'Attendance Time'               => 'হাজিরা সময়',
+    'Present'                       => 'উপস্থিত',
+    'Absent'                        => 'অনুপস্থিত',
+    'Total Employees'               => 'মোট কর্মচারী',
+    'Status'                        => 'স্ট্যাটাস',
+    'Attendance Details'            => 'হাজিরা বিবরণ',
+    //Attendance ...............................................................................
+    
+   
+
+  
+];

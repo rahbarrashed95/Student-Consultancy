@@ -1,0 +1,48 @@
+<?php
+  
+return [
+  
+    //Supplier ...............................................................................
+    'Dashboard'                     => 'Dashboard',
+    'supplier'                      => 'supplier',
+    'supplier List'                 => 'supplier List',
+    'Manage supplier'               => 'Manage supplier',
+    'Supplier Add'                  => 'supplier Add',
+    'Sl'                            => 'Sl',
+    'Supplier Name'                 => 'Supplier Name',
+    'Email'                         => 'Email',
+    'Phone'                         => 'Phone',
+    'Image'                         => 'Image',
+    'Info'                          => 'Info',
+    'Address'                       => 'Address',
+    'opening Balance'               => 'Opening Balance',
+    'Action'                        => 'Action',
+    'Edit'                          => 'Edit',
+    'Delete'                        => 'Delete',
+    'SMS'                           => 'SMS',
+    'Supplier Update'               => 'Supplier Update',
+    'Update'                        => 'Update',
+    'Save'                          => 'Save',
+    'close'                         => 'Close',
+    'Due supplier List'             => 'Due supplier List',
+    'Manage Due Supplier'           => 'Manage Due Supplier',
+    'Total Sell Amount'             => 'Total Sell Amount',
+    'Total Paid'                    => 'Total Paid',
+    'Total Due'                     => 'Total Due',
+    'Total'                         => 'Total',
+    'Add Payment'                   => 'Add Payment',
+    'Send SMS'                      => 'Send SMS',
+    'Order No'                      => 'Order No',
+    'Date'                          => 'Date',
+    'Amount'                        => 'Amount',
+    'Due'                           => 'Due',
+    'Select'                        => 'Select',
+    'Total Amount'                  => 'Total Amount',
+    'Method'                        => 'Method',
+    'Account'                       => 'Account',
+    'Transaction No'                => 'Transaction No',
+    'Note'                          => 'Note',
+    'Pay Openning'                  => 'Pay Openning',
+    //Supplier ...............................................................................
+
+];
